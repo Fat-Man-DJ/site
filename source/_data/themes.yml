@@ -3374,3 +3374,10 @@
     - Chinese
     - Hexo
     - Personal
+- name: IINX
+  description: A Simple Theme,Inspired By https://github.com/idealclover/clover/
+  link: https://github.com/Fat-Man-DJ/hexo-theme-iinx
+  preview: https://blog.fatdev.name/
+  tags:
+    - beautiful
+    - simple
